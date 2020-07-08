@@ -11,3 +11,7 @@
 <p>Tutte le immagini sono state ottimizzate con TinyPNG (che permette tale operazione senza perderne in qualita`), cosi` da non creare intoppi o comunque ritardi nei caricamenti delle pagine.</p>
 
 <p>La favicon del boiler, visibile in alto dove c'e` il titolo della pagina sopra la barra orizzontale di navigazione del browser, e` presa da flaticon.</p>
+
+# image
+  
+![immagine-di-esempio](Immagini/Servizi/1.jpg) 
