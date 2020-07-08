@@ -14,4 +14,4 @@
 
 # image
   
-![immagine-di-esempio](Immagini/Servizi/1.jpg) 
+![immagine-di-esempio](Immagini/servizi/1.jpg) 
